@@ -3,7 +3,7 @@ ini merupakan tutorial dari https://www.sruputkode.com/2023/08/membuat-crud-lara
 petunjuk sobs-sobs
 
 ```git
-git clone https://github.com/prasnov/crud-laravel-inertia-react.git
+git clone https://github.com/sruput-kode/crud-laravel-inertia-react.git
 ```
 
 ```composer
