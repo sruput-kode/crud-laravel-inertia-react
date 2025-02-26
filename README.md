@@ -1,3 +1,6 @@
+# Crud Laravel Inertia dan React.js
+Contoh program sederhana Crud dengan Laravel, Inertia dan React
+
 ini merupakan tutorial dari https://www.sruputkode.com/2023/08/membuat-crud-laravel-inertiajs-dan.html
 
 petunjuk sobs-sobs
@@ -43,3 +46,4 @@ npm run dev
 Selesai sobs-sobs :smile:
 
 
+![Logo Sruputkode](https://res.cloudinary.com/dho4y13sa/image/upload/v1740486643/Logo-Blog-2_ciz9gl.png)
