@@ -46,4 +46,6 @@ npm run dev
 Selesai sobs-sobs :smile:
 
 
-![Logo Sruputkode](https://res.cloudinary.com/dho4y13sa/image/upload/v1740486643/Logo-Blog-2_ciz9gl.png)
+<div align="center">
+    <img src="https://res.cloudinary.com/dho4y13sa/image/upload/v1740486643/Logo-Blog-2_ciz9gl.png" alt="SruputKode" target="_blank" title="Sruputkode.com">
+</div>
